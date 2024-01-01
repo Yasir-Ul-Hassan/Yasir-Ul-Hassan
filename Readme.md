@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir Ul Hassan</h1>
 <h3 align="center">Certified Digital Marketer from GOOGLE</h3>
-<img align="right" width=400 alt="Marketing" src="https://www.google.com/search?q=marketing+gif&sca_esv=594840231&rlz=1C1ONGR_enPK1039PK1039&tbm=isch&sxsrf=AM9HkKkG8hiz3QoOTB74Uus2_uPzgBP_Hw:1704089562423&source=lnms&sa=X&sqi=2&ved=2ahUKEwj4lKKoxLuDAxVWVKQEHffzBT4Q_AUoAXoECAEQAw&biw=1366&bih=641&dpr=1#imgrc=VxzUqrac8VfFfM"
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir-ul-hassan" alt="yasir-ul-hassan" /></a> </p>
 
 - 🌱 I’m currently learning **Meta Social Media Marketing Professional Certificate**
 
