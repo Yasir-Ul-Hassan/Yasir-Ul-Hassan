@@ -18,6 +18,5 @@
 <a href="https://instagram.com/https://www.instagram.com/yasir_ulhassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yasir_ulhassan/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir-ul-hassan&show_icons=true&locale=en&layout=compact" alt="yasir-ul-hassan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasir-ul-hassan&show_icons=true&locale=en" alt="yasir-ul-hassan" /></p>
