@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yasir Ul Hassan</h1>
-<h3 align="center">Certified Digital Marketer from GOOGLE</h3>
+<h1 align="center">Yasir Ul Hassan</h1>
+<h3 align="center">Computer Scientist</h3>
 
 
-- 🌱 I’m currently learning **Meta Social Media Marketing Professional Certificate**
+- 🌱 Exploring **Ai/ML | Networking | Digital Marketing | Business Intelligence**
 
-- 💬 Ask me about **Digital Marketing**
+<!-- 💬 Ask me about **Digital Marketing** -->
 
 - 📫 How to reach me **yasirulhassan.official@gmail.com**
 
-- ⚡ Fun fact **I am Footballer**
+- ⚡ Fun fact **Jack of All Trades**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
